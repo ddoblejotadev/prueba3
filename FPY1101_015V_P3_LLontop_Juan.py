@@ -62,6 +62,8 @@ def imprimir_certificado():
     
 def salir():
     print('Saliendo del programa')
+    print('Juan Jesus Llontop Roman')
+    print('Version.1')
     exit()
 
 
